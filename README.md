@@ -30,7 +30,7 @@ local function initializeAbility()
     local animationTrack2 = humanoid:LoadAnimation(animation2)
 
     local animation3 = Instance.new("Animation")
-    animation3.AnimationId = "rbxassetid://100879645127595"  -- Replace with your desired animation ID
+    animation3.AnimationId = "rbxassetid://111257275604578"  -- Replace with your desired animation ID
     local animationTrack3 = humanoid:LoadAnimation(animation3)
 
     -- Sound for the move
