@@ -22,11 +22,11 @@ local function initializeAbility()
 
     -- The animation for the dribble/drive move
     local animation1 = Instance.new("Animation")
-    animation1.AnimationId = "rbxassetid://99916870664377"  -- Replace with your desired animation ID
+    animation1.AnimationId = "rbxassetid://111257275604578"  -- Replace with your desired animation ID
     local animationTrack1 = humanoid:LoadAnimation(animation1)
 
     local animation2 = Instance.new("Animation")
-    animation2.AnimationId = "rbxassetid://74760828875758"  -- Replace with your desired animation ID
+    animation2.AnimationId = "rbxassetid://111257275604578"  -- Replace with your desired animation ID
     local animationTrack2 = humanoid:LoadAnimation(animation2)
 
     local animation3 = Instance.new("Animation")
